@@ -19,4 +19,4 @@ The program stops for 2 seconds to perform GPIO reset to avoid false alarms and 
 
 https://upload.cc/i1/2018/08/18/UrtAi2.png
 
-Figure 1
+Figure 2
