@@ -23,5 +23,8 @@ Figure 2
 
 
 Andoird APP as figure 3 below:
+
 https://upload.cc/i1/2018/08/21/IgYCxB.png
+
+Figure 3
 
