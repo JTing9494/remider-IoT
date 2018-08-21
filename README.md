@@ -17,14 +17,8 @@ Motion sensor gets turned on, when there is possible intrusion (high state 'GPIO
  
 The program stops for 2 seconds to perform GPIO reset to avoid false alarms and re-starts. While stopping that it would then wait serversocket.py for sending data to control alarm off from the client of android APP. The program developed keeps running and waiting an interrupt comes in the detection range of the sensor, the process repeats. Figure 2 is the demonstration of reminder.apk
 
-https://upload.cc/i1/2018/08/18/UrtAi2.png
+https://upload.cc/i1/2018/08/21/IgYCxB.png
 
 Figure 2
 
-
-Andoird APP as figure 3 below:
-
-https://upload.cc/i1/2018/08/21/IgYCxB.png
-
-Figure 3
 
