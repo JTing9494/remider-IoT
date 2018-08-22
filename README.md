@@ -21,4 +21,12 @@ https://upload.cc/i1/2018/08/21/IgYCxB.png
 
 Figure 2
 
+Users also strore the data in both SQLite and Firebase at the same time like figure 3
+
+https://upload.cc/i1/2018/08/22/uz0IBc.png
+
+Figure 3
+
+
+
 
